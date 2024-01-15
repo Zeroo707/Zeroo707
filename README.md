@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeroo707
 - 👀 I’m interested in be a backend developer 
-- 🌱 I’m currently learning Python and MySQL
+- 🌱 I’m currently learning Python, MySQL and Django!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
