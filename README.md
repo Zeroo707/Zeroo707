@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Zeroo707
-- 👀 I’m interested in be a backend developer 
-- 🌱 I’m currently learning Python, MySQL and Django framework!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in be a frontend developer 
+- 🌱 I’m currently learning HTML, CSS and JavaScript!
+- 📫 How to reach me: @reueldropemoff on instagram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play chess!
 
 <!---
 Zeroo707/Zeroo707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
